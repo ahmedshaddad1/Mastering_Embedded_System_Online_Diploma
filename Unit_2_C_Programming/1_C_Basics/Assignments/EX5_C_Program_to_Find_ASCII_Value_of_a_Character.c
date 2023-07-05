@@ -1,8 +1,11 @@
 /*
- * EX5_C_Program_to_Find_ASCII_Value_of_a_Character.c
- *
- *  Created on: Jul 5, 2023
- *      Author: ahmed
+ ==============================================================================================================
+ Name        : EX1_C_Program_To_Print_Sentence.c
+ Author      : Ahmed Shaddad
+ Created on	 : Jul 5, 2023
+ Description : Unit 2 C-Progtamming >> Assignment 1 C-Basic >> EX5 C Program to Find ASCII Value of a Character
+ 	 	 	   using Ansi-style (c99)
+ ==============================================================================================================
  */
 
 
